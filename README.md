@@ -14,7 +14,7 @@ To install the tool, follow these steps:
 
 Running the piano rig tool:
 
-1. Open a scene with a piano (use the test folder in attached if you wish)
+1. Open a scene with a piano (use the 'test folder' in attached if you wish https://drive.google.com/file/d/19kdWFDwda1LnDWkGJs7V6aNDO4gNlefm/view)
 2. drag the script file (PianoRigger.py) to the script editos in Maya and run it
 3. Follow the UI steps
 
